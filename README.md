@@ -1,2 +1,2 @@
-#Major League Rugby
-##WRA 410 Github Assignment
+# Major League Rugby
+## WRA 410 Github Assignment
